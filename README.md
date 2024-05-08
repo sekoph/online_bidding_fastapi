@@ -1,1 +1,0 @@
-# online_bidding_fastapi
