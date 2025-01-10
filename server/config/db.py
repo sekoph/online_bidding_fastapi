@@ -2,7 +2,7 @@ from sqlalchemy import create_engine, MetaData
 from sqlalchemy.orm import sessionmaker, declarative_base
 # import pymysql
 
-database_url = 'mysql://root:@localhost:3306/bid'
+database_url = 'provide database url'
 
 engine = create_engine(
     database_url,
